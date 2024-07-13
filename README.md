@@ -7,3 +7,10 @@ Based off of [bira](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/bira.z
 - Run `source ~/.zshrc`
 
 ## Script installation
+Run the following command:
+```
+rm -f ~/.oh-my-zsh/themes/jeff.zsh-theme && \
+curl --output-dir ~/.oh-my-zsh/themes -O https://raw.githubusercontent.com/jbaranski/jeff-zsh-theme/main/jeff.zsh-theme && \
+cat ~/.oh-my-zsh/themes/jeff.zsh-theme && \
+source ~/.zshrc
+```
