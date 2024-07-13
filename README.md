@@ -14,3 +14,5 @@ curl --output-dir ~/.oh-my-zsh/themes -O https://raw.githubusercontent.com/jbara
 cat ~/.oh-my-zsh/themes/jeff.zsh-theme && \
 source ~/.zshrc
 ```
+
+You can also `alias update_theme=<the command above>` to create a zsh alias for updating the theme.
