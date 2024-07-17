@@ -13,8 +13,8 @@ ZSH_THEME_RVM_PROMPT_OPTIONS="i v g"
 PROMPT="%B%{$fg[black]%}[%D{%d/%m/%y %H:%M:S}]%{$reset_color%}%b ${user_host}${current_dir}${rvm_ruby}${vcs_branch} ${venv_prompt}%B%{$fg[black]%}>%{$reset_color%}%b "
 RPROMPT="%B${return_code}%b"
 
-ZSH_THEME_GIT_PROMPT_PREFIX="%{$fg[yellow]%}‹"
-ZSH_THEME_GIT_PROMPT_SUFFIX="› %{$reset_color%}"
+ZSH_THEME_GIT_PROMPT_PREFIX="%{$fg[yellow]%}"
+ZSH_THEME_GIT_PROMPT_SUFFIX="%{$reset_color%}"
 ZSH_THEME_GIT_PROMPT_DIRTY="%{$fg[yellow]%}"
 ZSH_THEME_GIT_PROMPT_CLEAN="%{$fg[yellow]%}"
 
