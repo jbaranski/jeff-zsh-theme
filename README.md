@@ -1,7 +1,7 @@
 # jeff-zsh-theme
 Based off of [bira](https://github.com/ohmyzsh/ohmyzsh/wiki/Themes#bira) ([src](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/bira.zsh-theme))
 
-<img width="1438" alt="Screenshot 2024-07-16 at 8 36 45 PM" src="https://github.com/user-attachments/assets/eee64f5d-709f-4673-8d61-41b8b73a8c7b">
+<img width="1438" alt="Screenshot 2024-07-16 at 8 36 45 PM" src="https://github.com/user-attachments/assets/2f18eb2c-a3ba-4770-8825-8bb3e9c79506">
 
 
 ## Manual installation
